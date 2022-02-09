@@ -1,0 +1,20 @@
+id;code;name;logo;status
+1;jne;Jalur Nugraha Ekakurir (JNE);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/jne_id.jpg;1
+2;pos;POS Indonesia (POS);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/pos_id.jpg;1
+3;tiki;Citra Van Titipan Kilat (TIKI);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/tiki_id.jpg;1
+4;pcp;Priority Cargo and Package (PCP);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/pcp.png;0
+5;esl;Eka Sari Lorena (ESL);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/esl.png;0
+6;rpx;RPX Holding (RPX);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/rpx_id.jpg;1
+7;pandu;Pandu Logistics (PANDU);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/pandu.png;0
+8;wahana;Wahana Prestasi Logistik (WAHANA);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/wahana_id.jpg;1
+9;sicepat;SiCepat Express (SICEPAT);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/sicepat_id.jpg;1
+10;jnt;J&T Express (J&T);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/jnt_id.jpg;1
+11;pahala;Pahala Kencana Express (PAHALA);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/pahala.png;0
+12;cahaya;Cahaya Logistik (CAHAYA);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/cahaya.png;0
+13;sap;SAP Express (SAP);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/sap.png;0
+14;jet;JET Express (JET);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/jet.png;0
+15;indah;Indah Logistic (INDAH);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/indah.png;0
+16;slis;Solusi Ekspres (SLIS);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/slis.png;0
+17;dse;21 Express (DSE);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/dse.png;0
+18;first;First Logistics (FIRST);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/first_id.jpg;1
+19;ncs;Nusantara Card Semesta (NCS);https://s3-ap-southeast-1.amazonaws.com/sahitotest/assets/carriers/ncs.png;0

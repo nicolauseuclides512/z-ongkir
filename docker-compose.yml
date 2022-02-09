@@ -1,0 +1,32 @@
+version: '3'
+services:
+  db:
+    build: etc/mysql
+    restart: always
+    env_file: .env
+    ports:
+        - "33061:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: localhost
+  fpm:
+    build: ./etc/php-fpm
+    restart: always
+    env_file: .env
+    volumes:
+      - ./:/var/www
+    working_dir: /var/www
+  web:
+    build: ./etc/nginx
+    restart: always
+    links:
+      - fpm
+    ports:
+      - "8494:80"
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www/
+networks:
+  default:
+    driver: "bridge"
+
+
